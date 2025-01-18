@@ -11,7 +11,10 @@
         [
             {"text":"| ", "color":"#ff003c"},
             {"text":"Info: ", "color":"#868e96"},
-            {"text":"This is a QoL datapack built for Minecraft Java Edition.", "color":"#ced4da"}
+            {"text":"Darkness Resourcepack.", "color":"#ced4da"},
+            {"text":"| ", "color":"#ff003c"},
+            {"text":"Author: ", "color":"#868e96"},
+            {"text":"amcocan", "clickEvent":{"action":"open_url", "value":"https://github.com/amcocan"}, "hoverEvent":{"action":"show_text", "contents":{"text":"Github","color":"#ff003c"}}, "color":"#ced4da"}
         ]
     }
 }
