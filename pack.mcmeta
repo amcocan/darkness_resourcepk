@@ -1,16 +1,16 @@
 {
     "pack":
     {
-        "pack_format": 42,
+        "pack_format": 57,
+        "supported_formats":
+        {
+            "min_inclusive": 57,
+            "max_inclusive": 999999
+        },
         "description":
         [
             {"text":"A custom resourcepack for the Darkness datapack. ","color":"light_purple"},
             {"text":"amcocan", "color":"green"}
         ]
-    },
-    "supported_formats":
-    {
-      "min_inclusive": 15,
-      "max_inclusive": 999
     }
 }
