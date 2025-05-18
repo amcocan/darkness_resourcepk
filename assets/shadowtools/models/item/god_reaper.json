@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "shadowtools:custom/Ink",
-		"1": "shadowtools:custom/Rose",
-		"2": "shadowtools:custom/Bone",
-		"3": "shadowtools:custom/Spine",
-		"particle": "shadowtools:custom/Ink"
+		"0": "shadowtools:item/Ink",
+		"1": "shadowtools:item/Rose",
+		"2": "shadowtools:item/Bone",
+		"3": "shadowtools:item/Spine",
+		"particle": "shadowtools:item/Ink"
 	},
 	"elements": [
 		{
